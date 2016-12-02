@@ -110,5 +110,4 @@ end
 close(dict)
 
 #Returns the information that was collected throughout.
-print("Possible Matches: ")
-println(goodWords)
+println("Possible Matches: $goodWords")
